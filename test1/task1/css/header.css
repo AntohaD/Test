@@ -1,0 +1,15 @@
+header{
+    height: 50px;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    padding-left: 40%;
+}
+
+ul li{
+    color: white;
+    padding-left: 30px;
+}

@@ -1,0 +1,22 @@
+@import './css/header.css';
+@import './css/footer.css';
+@import './css/info.css';
+@import './css/slider.css';
+@import './css/image.css';
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: Arial;
+}
+
+.begin{
+    background-color: rgb(43, 42, 41);
+}
+a{
+    color: white;
+}
+li a:hover{
+    color:  rgb(235, 55, 10);
+}

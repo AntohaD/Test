@@ -1,0 +1,12 @@
+.image{
+    background-color: rgb(7, 188, 243);
+    height: 345px;
+    width: 100%;
+}
+.row{
+    background-color: rgb(235, 55, 10);
+    text-align: center;
+}
+#textImage{
+    padding-top: 20px;
+}
